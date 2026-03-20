@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 # I
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My interests lie in intelligence analysis and investigative work, with a focus on developing methods to uncover patterns using structured, formal, and interdisciplinary approaches.
+I'd describe myself as an independent intelligence analyst focused on investigative work and developing new approaches coming from interdisciplinary insights.
