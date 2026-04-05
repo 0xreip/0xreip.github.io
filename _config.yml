@@ -16,10 +16,10 @@ timezone:
 
 title: R(E)IP Archives
 
-tagline: Mathematical Logic & Investigative Case Studies # it will display as the subtitle
+tagline: Mathematical Logic & Investigative Reports # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A repository of formal logic tutorials and investigations
+  A repository of mathematical logic tutorials and investigations
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
